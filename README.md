@@ -5,3 +5,5 @@ So in the end we've got interactive plot which you can zoom in and move around b
 
 ![image](viz3.png)
 <br>Link to colab: https://colab.research.google.com/drive/1CNM4Y9uaqE464NDSZZrSlFwfo2o1gbzN?authuser=1#scrollTo=OUTkmKZ7tV_A
+<br> ### ToDo
+<br> I want to change year selection to interval
